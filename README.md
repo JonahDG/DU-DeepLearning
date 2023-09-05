@@ -1,4 +1,5 @@
 # COMP4531—Deep Learning: Model Design and Application 
+# Jonah Goldfine
 
 This repository contains all the necessary materials for the course COMP4531 - Deep Learning: Model Design and Application. Here, you'll find sample code, assignments, and other related content.
 
